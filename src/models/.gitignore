@@ -1,0 +1,11 @@
+# Ignorar dependências do Node.js
+node_modules/
+
+# Ignorar arquivos compilados TypeScript
+dist/
+
+# Ignorar configurações do ambiente de desenvolvimento
+.env
+
+# Ignorar logs e arquivos temporários
+*.log
