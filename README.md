@@ -24,8 +24,8 @@
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/sistema-bancario.git
-   cd sistema-bancario
+   git clone https://github.com/robertms55/bancodigital.git
+   cd bancodigital
    ```
 
 2. **Instale as dependências**
