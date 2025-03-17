@@ -1,6 +1,11 @@
-# ⚡ Sistema Bancário - TypeScript
 
-Este é um projeto simples de um sistema bancário desenvolvido em TypeScript.
+## FAFIRE
+## Curso:Pós Graduação em Engenharia de Software 
+## Disciplina: Linguagens e Ambientes para programação de software
+## Aluno: Roberto Moreira
+
+
+# ⚡ Sistema Bancário - TypeScript
 
 ## 📚 Funcionalidades
 
